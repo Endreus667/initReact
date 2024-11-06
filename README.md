@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ##COMMAND
 
 npm i -g create-next-app
+npx create-next-app
